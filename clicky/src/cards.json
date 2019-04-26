@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "image": "https://d29zunrt9sid73.cloudfront.net/speaker_media/asset/28695/portrait_28695.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Squirtle",
+    "image": "http://static.pokemonpets.com/images/monsters-images-240-240/7-Squirtle.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Cyndaquil",
+    "image": "https://vignette.wikia.nocookie.net/fantendo/images/9/9b/155Cyndaquil.png/revision/latest?cb=20160720220958",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Gengar",
+    "image": "https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2018-01/pokemon_icon_094_00.png?itok=PjXSLYfc",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Jigglypuff",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32849a51-deab-409a-8e33-fac85f482850/dbi4pvk-dc1998eb-b09a-4e9d-8307-5b36c84f4d74.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyODQ5YTUxLWRlYWItNDA5YS04ZTMzLWZhYzg1ZjQ4Mjg1MFwvZGJpNHB2ay1kYzE5OThlYi1iMDlhLTRlOWQtODMwNy01YjM2Yzg0ZjRkNzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6NBs61Iwu5Anenv7Pmfzj6d3SwTLZ1f2jKTjr1ZrYx4",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Chimchar",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1898412-390chimchar.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Cubone",
+    "image": "https://vignette.wikia.nocookie.net/dungeons/images/2/2a/104Cubone.png/revision/latest?cb=20100328022246",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Bulbasaur",
+    "image": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Eevee",
+    "image": "https://pokemonletsgo.pokemon.com/assets/img/common/char-eevee.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Snorlax",
+    "image": "https://cdn.bulbagarden.net/upload/thumb/f/fb/143Snorlax.png/250px-143Snorlax.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Mew",
+    "image": "https://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/250px-151Mew.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Togepi",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png",
+    "count": 0
+  }
+]
