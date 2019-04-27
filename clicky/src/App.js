@@ -18,7 +18,7 @@ class App extends Component {
         console.log(this.state.highscore);
       });
     }
-    this.state.cards.forEach(card => {
+    this.state.cards.map(card => {
       card.count = 0;
     });
     alert(`Game Over! Click to play again \nscore: ${this.state.score}`);
@@ -27,15 +27,15 @@ class App extends Component {
   }
 
   clickCount = id => {
-    this.state.cards.find((o, i) => {
-      if (o.id === id) {
-        if(cards[i].count === 0){
-          cards[i].count = cards[i].count + 1;
-          this.setState({score : this.state.score + 1}, function(){
+    this.state.cards.find((res, data) => {
+      if (res.id === id) {
+      if(cards[data].count === 0){
+        cards[data].count = cards[data].count + 1;
+        this.setState({score : this.state.score + 1}, function(){
             console.log(this.state.score);
-          });
-          this.state.cards.sort(() => Math.random() - 0.5)
-          return true; 
+        });
+        this.state.cards.sort(() => Math.random() - 0.5)
+        return true; 
         } else {
           this.gameOver();
         }
